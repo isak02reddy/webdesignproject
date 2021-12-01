@@ -1,0 +1,25 @@
+version control system : It is nothing but a software where all developers can work in a single platform....
+
+    Distributed Version control system : 
+               client version data base                                    server version data base
+    
+                  client 1,2,3,.......                                     all data by all clients uploads here.
+
+
+
+$git init-------command;
+
+$ls -a -------command;
+
+configuration ----link cheyyadaniki use chestam;
+
+$git config --global user.name "isak02reddy"
+
+$git config --global user.email "isakreddybommu@gmail.com"
+
+$ git config --list
+
+$git status  (----tracked or untracked.)
+
+$git add .(or) --a(or) A(or) --all
+          
